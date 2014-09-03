@@ -7,6 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D01078ED19B01F4100280430 /* HTC-M8St.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078DA19B01F4100280430 /* HTC-M8St.png */; };
+		D01078EE19B01F4100280430 /* HTC_802t.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078DB19B01F4100280430 /* HTC_802t.png */; };
+		D01078EF19B01F4100280430 /* HTC_One.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078DC19B01F4100280430 /* HTC_One.png */; };
+		D01078F019B01F4100280430 /* HTC_T528W.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078DD19B01F4100280430 /* HTC_T528W.png */; };
+		D01078F119B01F4100280430 /* HuaWei_ascend_P6.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078DE19B01F4100280430 /* HuaWei_ascend_P6.png */; };
+		D01078F219B01F4100280430 /* HuaWei_P6_T00.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078DF19B01F4100280430 /* HuaWei_P6_T00.png */; };
+		D01078F319B01F4100280430 /* HuaWeiP6.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078E019B01F4100280430 /* HuaWeiP6.png */; };
+		D01078F419B01F4100280430 /* iPad2.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078E119B01F4100280430 /* iPad2.png */; };
+		D01078F519B01F4100280430 /* iphone5.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078E219B01F4100280430 /* iphone5.png */; };
+		D01078F619B01F4100280430 /* LenovoP780.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078E319B01F4100280430 /* LenovoP780.png */; };
+		D01078F719B01F4100280430 /* Meizu_M355.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078E419B01F4100280430 /* Meizu_M355.png */; };
+		D01078F819B01F4100280430 /* OPPO_X907.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078E519B01F4100280430 /* OPPO_X907.png */; };
+		D01078F919B01F4100280430 /* PC.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078E619B01F4100280430 /* PC.png */; };
+		D01078FA19B01F4100280430 /* Samsung-SM-G9008V.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078E719B01F4100280430 /* Samsung-SM-G9008V.png */; };
+		D01078FB19B01F4100280430 /* SamSung_GT-I9300.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078E819B01F4100280430 /* SamSung_GT-I9300.png */; };
+		D01078FC19B01F4100280430 /* SamSung_GT_i9502.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078E919B01F4100280430 /* SamSung_GT_i9502.png */; };
+		D01078FD19B01F4100280430 /* SamSung_SM_N9009.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078EA19B01F4100280430 /* SamSung_SM_N9009.png */; };
+		D01078FE19B01F4100280430 /* SamSungGTN7.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078EB19B01F4100280430 /* SamSungGTN7.png */; };
+		D01078FF19B01F4100280430 /* Xiaomi_3W.png in Resources */ = {isa = PBXBuildFile; fileRef = D01078EC19B01F4100280430 /* Xiaomi_3W.png */; };
+		D010790519B06A3400280430 /* DetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = D010790419B06A3400280430 /* DetailController.m */; };
+		D0A8E99D19B42C850028802E /* Mobile.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A8E99C19B42C850028802E /* Mobile.m */; };
+		D0A8E99F19B445290028802E /* Loading.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0A8E99E19B445290028802E /* Loading.gif */; };
+		D0A8E9A119B44FA20028802E /* neko.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0A8E9A019B44FA20028802E /* neko.gif */; };
+		D0A8E9A319B453E20028802E /* sleep.png in Resources */ = {isa = PBXBuildFile; fileRef = D0A8E9A219B453E20028802E /* sleep.png */; };
+		D0A8E9A619B55B420028802E /* MonitorController.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A8E9A519B55B420028802E /* MonitorController.m */; };
+		D0A8E9A919B579D40028802E /* Message.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A8E9A819B579D40028802E /* Message.m */; };
+		D0A8E9BA19B6B3C10028802E /* SocketIO.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A8E9B019B6B3C10028802E /* SocketIO.m */; };
+		D0A8E9BB19B6B3C10028802E /* SocketIOJSONSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A8E9B219B6B3C10028802E /* SocketIOJSONSerialization.m */; };
+		D0A8E9BC19B6B3C10028802E /* SocketIOPacket.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A8E9B419B6B3C10028802E /* SocketIOPacket.m */; };
+		D0A8E9BD19B6B3C10028802E /* SocketIOTransportWebsocket.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A8E9B719B6B3C10028802E /* SocketIOTransportWebsocket.m */; };
+		D0A8E9BE19B6B3C10028802E /* SocketIOTransportXHR.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A8E9B919B6B3C10028802E /* SocketIOTransportXHR.m */; };
+		D0A8E9C219B6B3D90028802E /* SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A8E9C119B6B3D90028802E /* SRWebSocket.m */; };
+		D0A8E9C419B6B4E80028802E /* libicucore.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D0A8E9C319B6B4E80028802E /* libicucore.dylib */; };
+		D0A8E9C619B6B4EF0028802E /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0A8E9C519B6B4EF0028802E /* CFNetwork.framework */; };
+		D0A8E9C819B6B4F90028802E /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0A8E9C719B6B4F90028802E /* Security.framework */; };
 		D0B66C3519AED14400E66474 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0B66C3419AED14400E66474 /* Foundation.framework */; };
 		D0B66C3719AED14400E66474 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0B66C3619AED14400E66474 /* CoreGraphics.framework */; };
 		D0B66C3919AED14400E66474 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0B66C3819AED14400E66474 /* UIKit.framework */; };
@@ -21,6 +56,17 @@
 		D0B66C5619AED14400E66474 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0B66C3819AED14400E66474 /* UIKit.framework */; };
 		D0B66C5E19AED14400E66474 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D0B66C5C19AED14400E66474 /* InfoPlist.strings */; };
 		D0B66C6019AED14400E66474 /* MobileWatchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B66C5F19AED14400E66474 /* MobileWatchTests.m */; };
+		D0B66C7D19AEEE1C00E66474 /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B66C6B19AEEE1C00E66474 /* AFHTTPRequestOperation.m */; };
+		D0B66C7E19AEEE1C00E66474 /* AFHTTPRequestOperationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B66C6D19AEEE1C00E66474 /* AFHTTPRequestOperationManager.m */; };
+		D0B66C7F19AEEE1C00E66474 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B66C6F19AEEE1C00E66474 /* AFHTTPSessionManager.m */; };
+		D0B66C8019AEEE1C00E66474 /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B66C7219AEEE1C00E66474 /* AFNetworkReachabilityManager.m */; };
+		D0B66C8119AEEE1C00E66474 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B66C7419AEEE1C00E66474 /* AFSecurityPolicy.m */; };
+		D0B66C8219AEEE1C00E66474 /* AFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B66C7619AEEE1C00E66474 /* AFURLConnectionOperation.m */; };
+		D0B66C8319AEEE1C00E66474 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B66C7819AEEE1C00E66474 /* AFURLRequestSerialization.m */; };
+		D0B66C8419AEEE1C00E66474 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B66C7A19AEEE1C00E66474 /* AFURLResponseSerialization.m */; };
+		D0B66C8519AEEE1C00E66474 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B66C7C19AEEE1C00E66474 /* AFURLSessionManager.m */; };
+		D0B66C8819AF19A200E66474 /* MobileCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D0B66C8719AF19A200E66474 /* MobileCell.m */; };
+		D0B66C8A19AF19BB00E66474 /* MobileCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D0B66C8919AF19BB00E66474 /* MobileCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +80,53 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D01078DA19B01F4100280430 /* HTC-M8St.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "HTC-M8St.png"; sourceTree = "<group>"; };
+		D01078DB19B01F4100280430 /* HTC_802t.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HTC_802t.png; sourceTree = "<group>"; };
+		D01078DC19B01F4100280430 /* HTC_One.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HTC_One.png; sourceTree = "<group>"; };
+		D01078DD19B01F4100280430 /* HTC_T528W.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HTC_T528W.png; sourceTree = "<group>"; };
+		D01078DE19B01F4100280430 /* HuaWei_ascend_P6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HuaWei_ascend_P6.png; sourceTree = "<group>"; };
+		D01078DF19B01F4100280430 /* HuaWei_P6_T00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HuaWei_P6_T00.png; sourceTree = "<group>"; };
+		D01078E019B01F4100280430 /* HuaWeiP6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HuaWeiP6.png; sourceTree = "<group>"; };
+		D01078E119B01F4100280430 /* iPad2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPad2.png; sourceTree = "<group>"; };
+		D01078E219B01F4100280430 /* iphone5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphone5.png; sourceTree = "<group>"; };
+		D01078E319B01F4100280430 /* LenovoP780.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LenovoP780.png; sourceTree = "<group>"; };
+		D01078E419B01F4100280430 /* Meizu_M355.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meizu_M355.png; sourceTree = "<group>"; };
+		D01078E519B01F4100280430 /* OPPO_X907.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OPPO_X907.png; sourceTree = "<group>"; };
+		D01078E619B01F4100280430 /* PC.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PC.png; sourceTree = "<group>"; };
+		D01078E719B01F4100280430 /* Samsung-SM-G9008V.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Samsung-SM-G9008V.png"; sourceTree = "<group>"; };
+		D01078E819B01F4100280430 /* SamSung_GT-I9300.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SamSung_GT-I9300.png"; sourceTree = "<group>"; };
+		D01078E919B01F4100280430 /* SamSung_GT_i9502.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SamSung_GT_i9502.png; sourceTree = "<group>"; };
+		D01078EA19B01F4100280430 /* SamSung_SM_N9009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SamSung_SM_N9009.png; sourceTree = "<group>"; };
+		D01078EB19B01F4100280430 /* SamSungGTN7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SamSungGTN7.png; sourceTree = "<group>"; };
+		D01078EC19B01F4100280430 /* Xiaomi_3W.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Xiaomi_3W.png; sourceTree = "<group>"; };
+		D010790319B06A3400280430 /* DetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailController.h; sourceTree = "<group>"; };
+		D010790419B06A3400280430 /* DetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailController.m; sourceTree = "<group>"; };
+		D0A8E99B19B42C850028802E /* Mobile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mobile.h; sourceTree = "<group>"; };
+		D0A8E99C19B42C850028802E /* Mobile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Mobile.m; sourceTree = "<group>"; };
+		D0A8E99E19B445290028802E /* Loading.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Loading.gif; sourceTree = "<group>"; };
+		D0A8E9A019B44FA20028802E /* neko.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = neko.gif; sourceTree = "<group>"; };
+		D0A8E9A219B453E20028802E /* sleep.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sleep.png; sourceTree = "<group>"; };
+		D0A8E9A419B55B420028802E /* MonitorController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MonitorController.h; sourceTree = "<group>"; };
+		D0A8E9A519B55B420028802E /* MonitorController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MonitorController.m; sourceTree = "<group>"; };
+		D0A8E9A719B579D40028802E /* Message.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Message.h; sourceTree = "<group>"; };
+		D0A8E9A819B579D40028802E /* Message.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Message.m; sourceTree = "<group>"; };
+		D0A8E9AF19B6B3C10028802E /* SocketIO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocketIO.h; sourceTree = "<group>"; };
+		D0A8E9B019B6B3C10028802E /* SocketIO.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SocketIO.m; sourceTree = "<group>"; };
+		D0A8E9B119B6B3C10028802E /* SocketIOJSONSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocketIOJSONSerialization.h; sourceTree = "<group>"; };
+		D0A8E9B219B6B3C10028802E /* SocketIOJSONSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SocketIOJSONSerialization.m; sourceTree = "<group>"; };
+		D0A8E9B319B6B3C10028802E /* SocketIOPacket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocketIOPacket.h; sourceTree = "<group>"; };
+		D0A8E9B419B6B3C10028802E /* SocketIOPacket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SocketIOPacket.m; sourceTree = "<group>"; };
+		D0A8E9B519B6B3C10028802E /* SocketIOTransport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocketIOTransport.h; sourceTree = "<group>"; };
+		D0A8E9B619B6B3C10028802E /* SocketIOTransportWebsocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocketIOTransportWebsocket.h; sourceTree = "<group>"; };
+		D0A8E9B719B6B3C10028802E /* SocketIOTransportWebsocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SocketIOTransportWebsocket.m; sourceTree = "<group>"; };
+		D0A8E9B819B6B3C10028802E /* SocketIOTransportXHR.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SocketIOTransportXHR.h; sourceTree = "<group>"; };
+		D0A8E9B919B6B3C10028802E /* SocketIOTransportXHR.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SocketIOTransportXHR.m; sourceTree = "<group>"; };
+		D0A8E9BF19B6B3D90028802E /* SocketRocket-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SocketRocket-Prefix.pch"; sourceTree = "<group>"; };
+		D0A8E9C019B6B3D90028802E /* SRWebSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRWebSocket.h; sourceTree = "<group>"; };
+		D0A8E9C119B6B3D90028802E /* SRWebSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRWebSocket.m; sourceTree = "<group>"; };
+		D0A8E9C319B6B4E80028802E /* libicucore.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicucore.dylib; path = usr/lib/libicucore.dylib; sourceTree = SDKROOT; };
+		D0A8E9C519B6B4EF0028802E /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		D0A8E9C719B6B4F90028802E /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		D0B66C3119AED14400E66474 /* MobileWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MobileWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0B66C3419AED14400E66474 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D0B66C3619AED14400E66474 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +146,28 @@
 		D0B66C5B19AED14400E66474 /* MobileWatchTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MobileWatchTests-Info.plist"; sourceTree = "<group>"; };
 		D0B66C5D19AED14400E66474 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D0B66C5F19AED14400E66474 /* MobileWatchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MobileWatchTests.m; sourceTree = "<group>"; };
+		D0B66C6A19AEEE1C00E66474 /* AFHTTPRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPRequestOperation.h; sourceTree = "<group>"; };
+		D0B66C6B19AEEE1C00E66474 /* AFHTTPRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPRequestOperation.m; sourceTree = "<group>"; };
+		D0B66C6C19AEEE1C00E66474 /* AFHTTPRequestOperationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPRequestOperationManager.h; sourceTree = "<group>"; };
+		D0B66C6D19AEEE1C00E66474 /* AFHTTPRequestOperationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPRequestOperationManager.m; sourceTree = "<group>"; };
+		D0B66C6E19AEEE1C00E66474 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPSessionManager.h; sourceTree = "<group>"; };
+		D0B66C6F19AEEE1C00E66474 /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPSessionManager.m; sourceTree = "<group>"; };
+		D0B66C7019AEEE1C00E66474 /* AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworking.h; sourceTree = "<group>"; };
+		D0B66C7119AEEE1C00E66474 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
+		D0B66C7219AEEE1C00E66474 /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
+		D0B66C7319AEEE1C00E66474 /* AFSecurityPolicy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFSecurityPolicy.h; sourceTree = "<group>"; };
+		D0B66C7419AEEE1C00E66474 /* AFSecurityPolicy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFSecurityPolicy.m; sourceTree = "<group>"; };
+		D0B66C7519AEEE1C00E66474 /* AFURLConnectionOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLConnectionOperation.h; sourceTree = "<group>"; };
+		D0B66C7619AEEE1C00E66474 /* AFURLConnectionOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLConnectionOperation.m; sourceTree = "<group>"; };
+		D0B66C7719AEEE1C00E66474 /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLRequestSerialization.h; sourceTree = "<group>"; };
+		D0B66C7819AEEE1C00E66474 /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLRequestSerialization.m; sourceTree = "<group>"; };
+		D0B66C7919AEEE1C00E66474 /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLResponseSerialization.h; sourceTree = "<group>"; };
+		D0B66C7A19AEEE1C00E66474 /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLResponseSerialization.m; sourceTree = "<group>"; };
+		D0B66C7B19AEEE1C00E66474 /* AFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLSessionManager.h; sourceTree = "<group>"; };
+		D0B66C7C19AEEE1C00E66474 /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLSessionManager.m; sourceTree = "<group>"; };
+		D0B66C8619AF19A200E66474 /* MobileCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobileCell.h; sourceTree = "<group>"; };
+		D0B66C8719AF19A200E66474 /* MobileCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MobileCell.m; sourceTree = "<group>"; };
+		D0B66C8919AF19BB00E66474 /* MobileCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MobileCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +175,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0A8E9C819B6B4F90028802E /* Security.framework in Frameworks */,
+				D0A8E9C619B6B4EF0028802E /* CFNetwork.framework in Frameworks */,
+				D0A8E9C419B6B4E80028802E /* libicucore.dylib in Frameworks */,
 				D0B66C3719AED14400E66474 /* CoreGraphics.framework in Frameworks */,
 				D0B66C3919AED14400E66474 /* UIKit.framework in Frameworks */,
 				D0B66C3519AED14400E66474 /* Foundation.framework in Frameworks */,
@@ -79,9 +197,62 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D01078D919B01F4100280430 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				D0A8E9A219B453E20028802E /* sleep.png */,
+				D0A8E9A019B44FA20028802E /* neko.gif */,
+				D0A8E99E19B445290028802E /* Loading.gif */,
+				D01078DA19B01F4100280430 /* HTC-M8St.png */,
+				D01078DB19B01F4100280430 /* HTC_802t.png */,
+				D01078DC19B01F4100280430 /* HTC_One.png */,
+				D01078DD19B01F4100280430 /* HTC_T528W.png */,
+				D01078DE19B01F4100280430 /* HuaWei_ascend_P6.png */,
+				D01078DF19B01F4100280430 /* HuaWei_P6_T00.png */,
+				D01078E019B01F4100280430 /* HuaWeiP6.png */,
+				D01078E119B01F4100280430 /* iPad2.png */,
+				D01078E219B01F4100280430 /* iphone5.png */,
+				D01078E319B01F4100280430 /* LenovoP780.png */,
+				D01078E419B01F4100280430 /* Meizu_M355.png */,
+				D01078E519B01F4100280430 /* OPPO_X907.png */,
+				D01078E619B01F4100280430 /* PC.png */,
+				D01078E719B01F4100280430 /* Samsung-SM-G9008V.png */,
+				D01078E819B01F4100280430 /* SamSung_GT-I9300.png */,
+				D01078E919B01F4100280430 /* SamSung_GT_i9502.png */,
+				D01078EA19B01F4100280430 /* SamSung_SM_N9009.png */,
+				D01078EB19B01F4100280430 /* SamSungGTN7.png */,
+				D01078EC19B01F4100280430 /* Xiaomi_3W.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		D0A8E9AE19B6B37A0028802E /* SocketIO */ = {
+			isa = PBXGroup;
+			children = (
+				D0A8E9BF19B6B3D90028802E /* SocketRocket-Prefix.pch */,
+				D0A8E9C019B6B3D90028802E /* SRWebSocket.h */,
+				D0A8E9C119B6B3D90028802E /* SRWebSocket.m */,
+				D0A8E9AF19B6B3C10028802E /* SocketIO.h */,
+				D0A8E9B019B6B3C10028802E /* SocketIO.m */,
+				D0A8E9B119B6B3C10028802E /* SocketIOJSONSerialization.h */,
+				D0A8E9B219B6B3C10028802E /* SocketIOJSONSerialization.m */,
+				D0A8E9B319B6B3C10028802E /* SocketIOPacket.h */,
+				D0A8E9B419B6B3C10028802E /* SocketIOPacket.m */,
+				D0A8E9B519B6B3C10028802E /* SocketIOTransport.h */,
+				D0A8E9B619B6B3C10028802E /* SocketIOTransportWebsocket.h */,
+				D0A8E9B719B6B3C10028802E /* SocketIOTransportWebsocket.m */,
+				D0A8E9B819B6B3C10028802E /* SocketIOTransportXHR.h */,
+				D0A8E9B919B6B3C10028802E /* SocketIOTransportXHR.m */,
+			);
+			path = SocketIO;
+			sourceTree = "<group>";
+		};
 		D0B66C2819AED14400E66474 = {
 			isa = PBXGroup;
 			children = (
+				D0A8E9AE19B6B37A0028802E /* SocketIO */,
+				D01078D919B01F4100280430 /* Images */,
+				D0B66C6919AEEE1C00E66474 /* AFNetworking */,
 				D0B66C3A19AED14400E66474 /* MobileWatch */,
 				D0B66C5919AED14400E66474 /* MobileWatchTests */,
 				D0B66C3319AED14400E66474 /* Frameworks */,
@@ -101,6 +272,9 @@
 		D0B66C3319AED14400E66474 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D0A8E9C719B6B4F90028802E /* Security.framework */,
+				D0A8E9C519B6B4EF0028802E /* CFNetwork.framework */,
+				D0A8E9C319B6B4E80028802E /* libicucore.dylib */,
 				D0B66C3419AED14400E66474 /* Foundation.framework */,
 				D0B66C3619AED14400E66474 /* CoreGraphics.framework */,
 				D0B66C3819AED14400E66474 /* UIKit.framework */,
@@ -119,6 +293,17 @@
 				D0B66C4A19AED14400E66474 /* ViewController.m */,
 				D0B66C4C19AED14400E66474 /* Images.xcassets */,
 				D0B66C3B19AED14400E66474 /* Supporting Files */,
+				D0B66C8619AF19A200E66474 /* MobileCell.h */,
+				D0B66C8719AF19A200E66474 /* MobileCell.m */,
+				D0B66C8919AF19BB00E66474 /* MobileCell.xib */,
+				D010790319B06A3400280430 /* DetailController.h */,
+				D010790419B06A3400280430 /* DetailController.m */,
+				D0A8E99B19B42C850028802E /* Mobile.h */,
+				D0A8E99C19B42C850028802E /* Mobile.m */,
+				D0A8E9A419B55B420028802E /* MonitorController.h */,
+				D0A8E9A519B55B420028802E /* MonitorController.m */,
+				D0A8E9A719B579D40028802E /* Message.h */,
+				D0A8E9A819B579D40028802E /* Message.m */,
 			);
 			path = MobileWatch;
 			sourceTree = "<group>";
@@ -150,6 +335,32 @@
 				D0B66C5C19AED14400E66474 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D0B66C6919AEEE1C00E66474 /* AFNetworking */ = {
+			isa = PBXGroup;
+			children = (
+				D0B66C6A19AEEE1C00E66474 /* AFHTTPRequestOperation.h */,
+				D0B66C6B19AEEE1C00E66474 /* AFHTTPRequestOperation.m */,
+				D0B66C6C19AEEE1C00E66474 /* AFHTTPRequestOperationManager.h */,
+				D0B66C6D19AEEE1C00E66474 /* AFHTTPRequestOperationManager.m */,
+				D0B66C6E19AEEE1C00E66474 /* AFHTTPSessionManager.h */,
+				D0B66C6F19AEEE1C00E66474 /* AFHTTPSessionManager.m */,
+				D0B66C7019AEEE1C00E66474 /* AFNetworking.h */,
+				D0B66C7119AEEE1C00E66474 /* AFNetworkReachabilityManager.h */,
+				D0B66C7219AEEE1C00E66474 /* AFNetworkReachabilityManager.m */,
+				D0B66C7319AEEE1C00E66474 /* AFSecurityPolicy.h */,
+				D0B66C7419AEEE1C00E66474 /* AFSecurityPolicy.m */,
+				D0B66C7519AEEE1C00E66474 /* AFURLConnectionOperation.h */,
+				D0B66C7619AEEE1C00E66474 /* AFURLConnectionOperation.m */,
+				D0B66C7719AEEE1C00E66474 /* AFURLRequestSerialization.h */,
+				D0B66C7819AEEE1C00E66474 /* AFURLRequestSerialization.m */,
+				D0B66C7919AEEE1C00E66474 /* AFURLResponseSerialization.h */,
+				D0B66C7A19AEEE1C00E66474 /* AFURLResponseSerialization.m */,
+				D0B66C7B19AEEE1C00E66474 /* AFURLSessionManager.h */,
+				D0B66C7C19AEEE1C00E66474 /* AFURLSessionManager.m */,
+			);
+			path = AFNetworking;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,9 +439,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D01078FA19B01F4100280430 /* Samsung-SM-G9008V.png in Resources */,
+				D01078F419B01F4100280430 /* iPad2.png in Resources */,
+				D01078F019B01F4100280430 /* HTC_T528W.png in Resources */,
+				D01078FC19B01F4100280430 /* SamSung_GT_i9502.png in Resources */,
+				D01078F319B01F4100280430 /* HuaWeiP6.png in Resources */,
+				D0A8E99F19B445290028802E /* Loading.gif in Resources */,
 				D0B66C4D19AED14400E66474 /* Images.xcassets in Resources */,
+				D0A8E9A319B453E20028802E /* sleep.png in Resources */,
+				D01078F119B01F4100280430 /* HuaWei_ascend_P6.png in Resources */,
+				D01078F819B01F4100280430 /* OPPO_X907.png in Resources */,
+				D01078FB19B01F4100280430 /* SamSung_GT-I9300.png in Resources */,
+				D01078F219B01F4100280430 /* HuaWei_P6_T00.png in Resources */,
+				D01078ED19B01F4100280430 /* HTC-M8St.png in Resources */,
+				D01078F519B01F4100280430 /* iphone5.png in Resources */,
+				D01078FE19B01F4100280430 /* SamSungGTN7.png in Resources */,
+				D01078FF19B01F4100280430 /* Xiaomi_3W.png in Resources */,
+				D01078F919B01F4100280430 /* PC.png in Resources */,
 				D0B66C3F19AED14400E66474 /* InfoPlist.strings in Resources */,
+				D0A8E9A119B44FA20028802E /* neko.gif in Resources */,
+				D01078FD19B01F4100280430 /* SamSung_SM_N9009.png in Resources */,
 				D0B66C4819AED14400E66474 /* Main.storyboard in Resources */,
+				D0B66C8A19AF19BB00E66474 /* MobileCell.xib in Resources */,
+				D01078F719B01F4100280430 /* Meizu_M355.png in Resources */,
+				D01078F619B01F4100280430 /* LenovoP780.png in Resources */,
+				D01078EE19B01F4100280430 /* HTC_802t.png in Resources */,
+				D01078EF19B01F4100280430 /* HTC_One.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,7 +483,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0B66C7D19AEEE1C00E66474 /* AFHTTPRequestOperation.m in Sources */,
+				D0A8E9BD19B6B3C10028802E /* SocketIOTransportWebsocket.m in Sources */,
 				D0B66C4B19AED14400E66474 /* ViewController.m in Sources */,
+				D0B66C7E19AEEE1C00E66474 /* AFHTTPRequestOperationManager.m in Sources */,
+				D0B66C8019AEEE1C00E66474 /* AFNetworkReachabilityManager.m in Sources */,
+				D0B66C8419AEEE1C00E66474 /* AFURLResponseSerialization.m in Sources */,
+				D0B66C8219AEEE1C00E66474 /* AFURLConnectionOperation.m in Sources */,
+				D0B66C8119AEEE1C00E66474 /* AFSecurityPolicy.m in Sources */,
+				D0B66C8819AF19A200E66474 /* MobileCell.m in Sources */,
+				D0B66C7F19AEEE1C00E66474 /* AFHTTPSessionManager.m in Sources */,
+				D0B66C8319AEEE1C00E66474 /* AFURLRequestSerialization.m in Sources */,
+				D0A8E9BE19B6B3C10028802E /* SocketIOTransportXHR.m in Sources */,
+				D0A8E9A619B55B420028802E /* MonitorController.m in Sources */,
+				D010790519B06A3400280430 /* DetailController.m in Sources */,
+				D0A8E9BC19B6B3C10028802E /* SocketIOPacket.m in Sources */,
+				D0A8E9BA19B6B3C10028802E /* SocketIO.m in Sources */,
+				D0A8E9BB19B6B3C10028802E /* SocketIOJSONSerialization.m in Sources */,
+				D0B66C8519AEEE1C00E66474 /* AFURLSessionManager.m in Sources */,
+				D0A8E9A919B579D40028802E /* Message.m in Sources */,
+				D0A8E99D19B42C850028802E /* Mobile.m in Sources */,
+				D0A8E9C219B6B3D90028802E /* SRWebSocket.m in Sources */,
 				D0B66C4519AED14400E66474 /* AppDelegate.m in Sources */,
 				D0B66C4119AED14400E66474 /* main.m in Sources */,
 			);
@@ -456,6 +710,7 @@
 				D0B66C6519AED14400E66474 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0B66C6619AED14400E66474 /* Build configuration list for PBXNativeTarget "MobileWatchTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +719,7 @@
 				D0B66C6819AED14400E66474 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
